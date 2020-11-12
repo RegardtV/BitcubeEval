@@ -1,0 +1,7 @@
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Regardt\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
